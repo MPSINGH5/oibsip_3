@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Basic_Calculator</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="ADD">ADD</string>
+    <string name="SUB">SUB</string>
+    <string name="MULTIPLY">MULTIPLY</string>
+    <string name="DIVIDE">DIVIDE</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Nine">9</string>
+    <string name="Eight">8</string>
+    <string name="Seven">7</string>
+    <string name="Dot">.</string>
+    <string name="Zero">0</string>
+    <string name="Result">RESULT</string>
+    <string name="nothing">aaaa</string>
+</resources>
